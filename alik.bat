@@ -32,3 +32,5 @@ if not exist %python% (
 
 set alik_dir=%cwd%\alik
 
+
+
